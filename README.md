@@ -1,1 +1,1 @@
-# merge_conflict_assignment
+# smak_course
